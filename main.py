@@ -7,4 +7,4 @@ def index():
   return 'Hola que tal'
 
 
-app.run()
+app.run(host='0.0.0.0')
